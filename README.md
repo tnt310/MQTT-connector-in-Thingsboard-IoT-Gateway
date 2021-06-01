@@ -6,7 +6,8 @@ In this project:
   - Thingsboard Gateway (run port 1884) will sub data from Mosquitto broker ( run port 1883), and then Thingsboard Gateway will send data (formatted) to Thingsboard cloud through MQTT connector.
   - Besides, a gui is as mqtt client also sub data from Mosquitto broker.
 
-![image](https://user-images.githubusercontent.com/67432831/120340822-8a348680-c320-11eb-9758-d851d31f62a2.png)
+![image](https://user-images.githubusercontent.com/67432831/120341686-4beb9700-c321-11eb-8542-1c31183a99b0.png)
+
 
 **Reference**
 
