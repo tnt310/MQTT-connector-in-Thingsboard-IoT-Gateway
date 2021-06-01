@@ -1,4 +1,4 @@
-# Visualizing-sensor-data-on-Thingsboard-IoT-platform
+# Monitoring-sensor-data-on-Thingsboard-IoT-platform
 This is a project about Thingsboard and Thingsboard Gateway.
 In this project:
   - STM32F103C8T6 is used to collect sensor data (DHT11, MAX44009, Moisture sensor). 
