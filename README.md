@@ -7,6 +7,8 @@ In this project:
   - Besides, a gui is as mqtt client also sub data from Mosquitto broker.
 
 https://thingsboard.io/docs/user-guide/install/ubuntu/
+
 https://thingsboard.io/docs/iot-gateway/config/mqtt/
+
 https://thingsboard.io/docs/samples/esp8266/gpio/
 
