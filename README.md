@@ -9,3 +9,4 @@ In this project:
 https://thingsboard.io/docs/user-guide/install/ubuntu/
 https://thingsboard.io/docs/iot-gateway/config/mqtt/
 https://thingsboard.io/docs/samples/esp8266/gpio/
+
